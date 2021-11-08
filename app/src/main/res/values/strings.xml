@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Falcon</string>
+    <string name="list_screen_title">Falcon Launches</string>
+
+    <string name="load_error">Can\'t update launches list</string>
+    <string name="retry">Retry</string>
+    <string name="cd_navigate_up">Navigate up</string>
+    <string name="cd_patch_image_details_screen">Launch Patch Logo</string>
+    <string name="cd_launch_details_list_item">Mission status image</string>
+    <string name="launch_details_list_item_missions_status">Mission Success:</string>
+    <string name="cd_launch_details_patch_logo_list_item">Launch patch logo</string>
+    <string name="cd_scroll_to_top_of_the_list">Icon to scroll to the top of the launches list.</string>
+    <string name="launches_no_data_to_display">There seems to be an issue with loading the list. Please try again.</string>
+</resources>
